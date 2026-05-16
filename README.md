@@ -36,12 +36,3 @@ Both implementations are **generic** (`<T>`) and work with any data type (`int`,
 - `PrintTree()` – visual hierarchical output with colors for Red‑Black Tree.
 - Generic – same code works for `int`, `string`, etc.
 
----
-
-## 🛠️ Usage
-
-### 1. Clone & Build
-```bash
-git clone https://github.com/Alco222/BalancedTreeImplementations.git
-cd BalancedTreeImplementations
-dotnet build
